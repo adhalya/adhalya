@@ -14,11 +14,11 @@ Sou *Adhalya Intchala*, tenho graduação em arquitetura e urbanismo e estou em 
 
 ## Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=adhalya&show_icons=true&theme=rose)](https://github.com/adhalya)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=adhalya&show_icons=true&theme=flag-india)](https://github.com/adhalya)
 
 ## Linguagens Mais Usadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhalya&layout=compact&theme=rose)](https://github.com/adhalya)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhalya&layout=compact&theme=flag-india)](https://github.com/adhalya)
 
 ## Entre em Contato
 
