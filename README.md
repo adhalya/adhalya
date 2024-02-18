@@ -8,17 +8,18 @@ Sou *Adhalya Intchala*, tenho graduação em arquitetura e urbanismo e estou em 
 - 📫 Entre em contato comigo através do meu perfil do [linkedin](https://www.linkedin.com/in/adhalyaintchala/)
 - 😄 Pronomes: Ela/Dela
 
+
 ## Projetos Destacados
 
-- Em breve esta seção será preenchida com projetos em andamento.
+### SQL
+  
+ - [Desafio Banco de Dados - WoMakersCode](https://github.com/adhalya/desafio-banco-de-dados)
+
 
 ## Estatísticas do GitHub
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=adhalya&show_icons=true&theme=flag-india)](https://github.com/adhalya)
 
-## Linguagens Mais Usadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhalya&layout=compact&theme=flag-india)](https://github.com/adhalya)
 
 ## Entre em Contato
 
