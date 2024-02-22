@@ -9,12 +9,15 @@ Sou *Adhalya Intchala*, tenho graduação em arquitetura e urbanismo e estou em 
 - 😄 Pronomes: Ela/Dela
 
 
-## Projetos Destacados
+## Projetos em destaque
 
 ### SQL
   
  - [Desafio Banco de Dados - WoMakersCode](https://github.com/adhalya/desafio-banco-de-dados)
 
+### Estatística
+  
+ - [Desafio Estatística - Frequências e Medidas - WoMakersCode](https://github.com/adhalya/estatistica-frequencias-medidas)
 
 ## Estatísticas do GitHub
 
