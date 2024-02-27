@@ -29,4 +29,4 @@ Sou *Adhalya Intchala*, tenho graduação em arquitetura e urbanismo e estou em 
 - [Linkedin](https://www.linkedin.com/in/adhalyaintchala/)
 
 
-Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e entrar em contato comigo.
+Obrigada por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e entrar em contato comigo.
