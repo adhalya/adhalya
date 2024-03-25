@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo ao meu perfil do GitHub!! 👋
 
-Sou *Adhalya Intchala*, tenho graduação em arquitetura e urbanismo e estou em transição de carreira para a análise de dados.
+Sou *Adhalya Intchala*, tenho graduação em arquitetura e urbanismo e estou em transição de carreira para análise de dados.
 
 - 🔭 Estou em busca de oportunidades na área de análise de dados
 - 🌱 Estou estudando Data Analytics na WoMakersCode
