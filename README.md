@@ -19,6 +19,7 @@ Sou *Adhalya Intchala*, tenho graduação em arquitetura e urbanismo e estou em 
   
  - [Frequências e Medidas - WoMakersCode](https://github.com/adhalya/estatistica-frequencias-medidas)
  - [Probabilidade e Amostragem - WoMakersCode](https://github.com/adhalya/estatistica_probabilidade_e_amostragem)
+ - [Teste de Hipóteses - WoMakersCode](https://github.com/adhalya/estatistica-teste-hipoteses)
    
 ## Estatísticas do GitHub
 
