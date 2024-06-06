@@ -4,7 +4,7 @@ Sou *Adhalya Intchala*, tenho graduação em arquitetura e urbanismo e estou em 
 
 - 🔭 Estou em busca de oportunidades na área de análise de dados
 - 🌱 Estou estudando Data Analytics na WoMakersCode
-- 👩‍💻 Tenho conhecimentos na linguagem *Python* e em bibliotecas como *Pandas, Matplolib e Numpy*, além de outros conhecimentos importantes
+- 👩‍💻 Tenho conhecimentos na linguagem *Python e SQL*, além de outros conhecimentos importantes
 - 📫 Entre em contato comigo através do meu perfil do [linkedin](https://www.linkedin.com/in/adhalyaintchala/)
 - 😄 Pronomes: Ela/Dela
 
