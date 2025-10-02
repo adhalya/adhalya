@@ -1,10 +1,10 @@
 ### Olá, seja bem vindo ao meu perfil do GitHub!! 👋
 
-Sou *Adhalya Intchala*, tenho graduação em arquitetura e urbanismo e estou em transição de carreira para análise de dados.
+Sou *Adhalya Intchala*, tenho graduação em arquitetura e urbanismo e atuo como analista de dados freelancer.
 
-- 🔭 Estou em busca de oportunidades na área de análise de dados
-- 🌱 Concluí o Bootcamp de Data Analytics na WoMakersCode
-- 👩‍💻 Tenho conhecimentos na linguagem *Python e SQL*, além de outros conhecimentos importantes
+- 🔭 Busco oportunidades de atuação em projetos
+- 🌱 Data Analytics através da instituição WoMakersCode
+- 👩‍💻 Tenho conhecimentos na linguagem *Python e SQL*, estou aprendendo a linguagem R
 - 📫 Entre em contato comigo através do meu perfil do [linkedin](https://www.linkedin.com/in/adhalyaintchala/)
 - 😄 Pronomes: Ela/Dela
 
