@@ -11,6 +11,10 @@ Sou *Adhalya Intchala*, tenho graduação em arquitetura e urbanismo e atuo como
 
 ## Projetos em destaque
 
+### Projeto de Análise de Dados com Tratamento de Variável Categórica Nominal
+
+- [Projeto de Análise de Campanha de Crédito](https://github.com/adhalya/Analise_Campanha_Credito/tree/main)
+
 ### SQL
   
  - [Desafio Banco de Dados](https://github.com/adhalya/Bootcamp_Data_Analytics-WoMakersCode/tree/main/desafio-banco-de-dados)
