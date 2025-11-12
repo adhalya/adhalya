@@ -15,6 +15,10 @@ Sou *Adhalya Intchala*, tenho graduação em arquitetura e urbanismo e atuo como
 
 - [Projeto de Análise de Campanha de Crédito](https://github.com/adhalya/Analise_Campanha_Credito/tree/main)
 
+### Projeto de Controle Financeiro em Excel (Com relatório em formato de painél)
+
+- [Projeto de Controle Financeiro](https://github.com/adhalya/Planilhas_Excel)
+
 ### SQL
   
  - [Desafio Banco de Dados](https://github.com/adhalya/Bootcamp_Data_Analytics-WoMakersCode/tree/main/desafio-banco-de-dados)
