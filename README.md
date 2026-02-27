@@ -11,11 +11,11 @@ Sou *Adhalya Intchala*, tenho graduação em arquitetura e urbanismo e atuo como
 
 ## Projetos em destaque
 
-### PYTHON - Projeto de Análise de Dados com Tratamento de Variável Categórica Nominal
+### PYTHON
 
 - [Projeto de Análise de Campanha de Crédito](https://github.com/adhalya/Analise_Campanha_Credito/tree/main)
 
-### EXCEL - Projeto de Controle Financeiro (Com relatório em formato de painel)
+### EXCEL
 
 - [Projeto de Controle Financeiro](https://github.com/adhalya/Planilhas_Excel)
 
