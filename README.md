@@ -1,43 +1,86 @@
-### Olá, seja bem vindo ao meu perfil do GitHub!! 👋
+# 👋 Olá, eu sou Adhalya Intchala  
 
-Sou *Adhalya Intchala*, tenho graduação em arquitetura e urbanismo e atuo como analista de dados freelancer.
+🎓 Arquiteta e Urbanista  
+📊 Analista de Dados Freelancer  
 
-- 🔭 Busco oportunidades de atuação em projetos
-- 🌱 Data Analytics através da instituição WoMakersCode
-- 👩‍💻 Tenho conhecimentos na linguagem *Python e SQL*, estou aprendendo a linguagem R
-- 📫 Entre em contato comigo através do meu perfil do [linkedin](https://www.linkedin.com/in/adhalyaintchala/)
-- 😄 Pronomes: Ela/Dela
+Transformo dados em decisões estratégicas através de análise, estatística e visualização clara.
 
+---
 
-## Projetos em destaque
+## 🌱 Atualmente
 
-### PYTHON
+- 📚 Estudando PowerBI pelo Dados Criativos.  
+- 🐍 Aprofundando conhecimentos em Python e SQL    
+- 🔎 Buscando oportunidades em projetos de dados  
 
-- [Projeto de Análise de Campanha de Crédito](https://github.com/adhalya/Analise_Campanha_Credito/tree/main)
+---
 
-### EXCEL
+## 🛠️ Tecnologias & Ferramentas
 
-- [Projeto de Controle Financeiro](https://github.com/adhalya/Planilhas_Excel)
+### Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### WoMakersCode
-  
- - [SQL - Desafio Banco de Dados](https://github.com/adhalya/Bootcamp_Data_Analytics-WoMakersCode/tree/main/desafio-banco-de-dados)
+### Ferramentas
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Estatística](https://img.shields.io/badge/Estatística-4B8BBE?style=for-the-badge)
 
- - [Estatística - Frequências e Medidas](https://github.com/adhalya/Bootcamp_Data_Analytics-WoMakersCode/tree/main/estatistica-frequencias-medidas)
- - [Estatística - Probabilidade e Amostragem](https://github.com/adhalya/Bootcamp_Data_Analytics-WoMakersCode/tree/main/estatistica_probabilidade_e_amostragem)
- - [Estatística - Teste de Hipóteses](https://github.com/adhalya/Bootcamp_Data_Analytics-WoMakersCode/tree/main/estatistica-teste-hipoteses)
- 
- - [Machine Learning - Correlação e Regressão](https://github.com/adhalya/Bootcamp_Data_Analytics-WoMakersCode/tree/main/estatistica-correlacao-e-regressao)
- - [Machine Learning - Regressão Logística e Classificação](https://github.com/adhalya/Bootcamp_Data_Analytics-WoMakersCode/tree/main/estatistica_regressao_logistica_e_classificacao)
-   
-## Estatísticas do GitHub
+---
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=adhalya&show_icons=true&theme=flag-india)](https://github.com/adhalya)
+# 📌 Projetos em Destaque
 
+## 🐍 Python
 
-## Entre em Contato
+### 🔹 Análise de Campanha de Crédito
+Análise exploratória de dados, tratamento de inconsistências e geração de insights estratégicos para tomada de decisão.  
 
-- [Linkedin](https://www.linkedin.com/in/adhalyaintchala/)
+👉 https://github.com/adhalya/Analise_Campanha_Credito/tree/main  
 
+---
 
-Obrigada por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e entrar em contato comigo.
+## 📊 Excel
+
+### 🔹 Controle Financeiro
+Dashboard para organização e análise de finanças pessoais com foco em visualização clara e controle mensal.  
+
+👉 https://github.com/adhalya/Planilhas_Excel  
+
+---
+
+## 🎓 Bootcamp - WoMakersCode
+
+### 🗄️ SQL
+- [Banco de Dados – Desafio prático](https://github.com/adhalya/Bootcamp_Data_Analytics-WoMakersCode/tree/main/desafio-banco-de-dados)
+
+### 📊 Estatística
+- [Frequências e Medidas](https://github.com/adhalya/Bootcamp_Data_Analytics-WoMakersCode/tree/main/estatistica-frequencias-medidas)
+- [Probabilidade e Amostragem](https://github.com/adhalya/Bootcamp_Data_Analytics-WoMakersCode/tree/main/estatistica_probabilidade_e_amostragem)  
+- [Teste de Hipóteses](https://github.com/adhalya/Bootcamp_Data_Analytics-WoMakersCode/tree/main/estatistica-teste-hipoteses)  
+
+### 🤖 Machine Learning
+- [Correlação e Regressão](https://github.com/adhalya/Bootcamp_Data_Analytics-WoMakersCode/tree/main/estatistica-correlacao-e-regressao)
+- [Regressão Logística e Classificação](https://github.com/adhalya/Bootcamp_Data_Analytics-WoMakersCode/tree/main/estatistica_regressao_logistica_e_classificacao) 
+
+👉 https://github.com/adhalya/Bootcamp_Data_Analytics-WoMakersCode 
+
+---
+
+# 📈 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adhalya&show_icons=true&theme=flag-india)
+
+---
+
+# 🤝 Vamos nos conectar?
+
+💼 LinkedIn  
+https://www.linkedin.com/in/adhalyaintchala/
+
+📩 Aberta para projetos freelance e oportunidades na área de dados.
+
+---
+
+✨ Obrigada por visitar meu perfil!  
+Sinta-se à vontade para explorar meus projetos e entrar em contato.
