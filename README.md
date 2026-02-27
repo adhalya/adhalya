@@ -11,29 +11,24 @@ Sou *Adhalya Intchala*, tenho graduação em arquitetura e urbanismo e atuo como
 
 ## Projetos em destaque
 
-### Projeto de Análise de Dados com Tratamento de Variável Categórica Nominal
+### PYTHON - Projeto de Análise de Dados com Tratamento de Variável Categórica Nominal
 
 - [Projeto de Análise de Campanha de Crédito](https://github.com/adhalya/Analise_Campanha_Credito/tree/main)
 
-### Projeto de Controle Financeiro em Excel (Com relatório em formato de painel)
+### EXCEL - Projeto de Controle Financeiro (Com relatório em formato de painel)
 
 - [Projeto de Controle Financeiro](https://github.com/adhalya/Planilhas_Excel)
 
-### SQL
+### WoMakersCode
   
- - [Desafio Banco de Dados](https://github.com/adhalya/Bootcamp_Data_Analytics-WoMakersCode/tree/main/desafio-banco-de-dados)
+ - [SQL - Desafio Banco de Dados](https://github.com/adhalya/Bootcamp_Data_Analytics-WoMakersCode/tree/main/desafio-banco-de-dados)
 
-### Estatística
-  
- - [Frequências e Medidas](https://github.com/adhalya/Bootcamp_Data_Analytics-WoMakersCode/tree/main/estatistica-frequencias-medidas)
- - [Probabilidade e Amostragem](https://github.com/adhalya/Bootcamp_Data_Analytics-WoMakersCode/tree/main/estatistica_probabilidade_e_amostragem)
- - [Teste de Hipóteses](https://github.com/adhalya/Bootcamp_Data_Analytics-WoMakersCode/tree/main/estatistica-teste-hipoteses)
-
-    #### Machine Learning - Modelos Supervisionados
-     
-
-     - [Correlação e Regressão](https://github.com/adhalya/Bootcamp_Data_Analytics-WoMakersCode/tree/main/estatistica-correlacao-e-regressao)
-     - [Regressão Logística e Classificação](https://github.com/adhalya/Bootcamp_Data_Analytics-WoMakersCode/tree/main/estatistica_regressao_logistica_e_classificacao)
+ - [Estatística - Frequências e Medidas](https://github.com/adhalya/Bootcamp_Data_Analytics-WoMakersCode/tree/main/estatistica-frequencias-medidas)
+ - [Estatística - Probabilidade e Amostragem](https://github.com/adhalya/Bootcamp_Data_Analytics-WoMakersCode/tree/main/estatistica_probabilidade_e_amostragem)
+ - [Estatística - Teste de Hipóteses](https://github.com/adhalya/Bootcamp_Data_Analytics-WoMakersCode/tree/main/estatistica-teste-hipoteses)
+ 
+ - [Machine Learning - Correlação e Regressão](https://github.com/adhalya/Bootcamp_Data_Analytics-WoMakersCode/tree/main/estatistica-correlacao-e-regressao)
+ - [Machine Learning - Regressão Logística e Classificação](https://github.com/adhalya/Bootcamp_Data_Analytics-WoMakersCode/tree/main/estatistica_regressao_logistica_e_classificacao)
    
 ## Estatísticas do GitHub
 
