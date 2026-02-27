@@ -67,12 +67,6 @@ Dashboard para organização e análise de finanças pessoais com foco em visual
 
 ---
 
-# 📈 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adhalya&show_icons=true&theme=flag-india)
-
----
-
 # 🤝 Vamos nos conectar?
 
 💼 LinkedIn  
