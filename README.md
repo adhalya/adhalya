@@ -20,10 +20,10 @@ Transformo dados em decisões estratégicas através de análise, estatística e
 ### Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### Ferramentas
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![Estatística](https://img.shields.io/badge/Estatística-4B8BBE?style=for-the-badge)
 
