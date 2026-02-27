@@ -23,7 +23,7 @@ Transformo dados em decisões estratégicas através de análise, estatística e
 
 ### Ferramentas
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-276DC3?style=for-the-badge&logo=power-bi&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![Estatística](https://img.shields.io/badge/Estatística-4B8BBE?style=for-the-badge)
 
